@@ -2,7 +2,7 @@
 
 **Tenali** is a stateful, local-first coding assistant designed to bridge the gap between simple LLM chat interfaces and fully autonomous software engineering agents. Inspired by the legendary wit and strategic reasoning of Tenali Rama, this agent focuses on clever problem-solving, resourcefulness, and deep logical analysis.
 
-Whether you are refactoring a 40-file React project or hunting down a logic bug in a Python script, Tenali acts as a "Co-Pilot" that can actually see your files, understand your architecture, and run your terminal.
+Tenali acts as a "Co-Pilot" that can actually see your files, understand your architecture, and run your terminal.
 
 ---
 
