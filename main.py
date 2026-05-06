@@ -41,8 +41,8 @@ STEP 4 - FIX/BUILD: Use 'write_file' to apply changes. Always write the COMPLETE
 STEP 5 - VERIFY: Use 'run_command' to build/test. If it fails, read the error, fix it, and repeat until success.
 
 Rules for Execution vs. Consulting:
-- SMART FILTER: If the user asks for an explanation or "how-to", use code blocks in the chat to teach.
 - NO CHAT CODE BLOCKS FOR EDITS: If the task is to change, fix, update,or refactor a file, DO NOT print the code in the chat. You must apply it directly using the 'write_file' tool.
+- SMART FILTER: If the user asks for an explanation or "how-to", use code blocks in the chat to teach.
 - READ BEFORE EDIT: Always read a file's content before attempting to edit it. Never guess.
 - FULL REWRITES: When writing to a file, provide the ENTIRE content. No placeholders or "// ... rest of code".
 - MANDATORY VERIFICATION: Every file change must be followed by a 'run_command' to verify the build.
