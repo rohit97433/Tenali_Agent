@@ -40,7 +40,7 @@ Tenali operates on a **ReAct (Reason + Act)** pattern orchestrated through a Dir
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Tenali.git
+https://github.com/rohit97433/Tenali_Agent.git
 cd Tenali
 
 # Setup virtual environment
