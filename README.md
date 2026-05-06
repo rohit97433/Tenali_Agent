@@ -94,12 +94,3 @@ Tenali is **model-agnostic**. You can swap the underlying LLM based on your hard
 > **Built for developers, by a developer.** Tenali is your strategist in the terminal. Happy coding!
 
 #AI #OpenSource #TenaliAgent #LangGraph #Ollama #Python #SoftwareEngineering
-
----
-
-### One last thing...
-When you upload this, make sure your **`requirements.txt`** has the manual list we discussed:
-*   `langchain-ollama`
-*   `langchain-core`
-*   `langgraph`
-*   `langchain-community`
