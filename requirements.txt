@@ -1,0 +1,7 @@
+langchain
+deepagents
+langchain-ollama
+langchain_community
+ddgs
+langgraph
+langchain_core
